@@ -1,5 +1,23 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Improving my Data Structures & Algorithms skills for exams and problem-solving<br>
+Developing interactive web projects using HTML, CSS, and JavaScript<br>
+
+Web development projects (HTML, CSS, JavaScript)<br>
+Beginner-friendly AI / ML projects<br>
+Open-source tools, especially developer utilities<br>
+Advanced DSA problem-solving and optimization<br>
+AI & Deep Learning concepts (from fundamentals to projects)<br>
+Data Structures & Algorithms<br>
+Artificial Intelligence & Machine Learning<br>
+Full-stack web development and project structuring<br>
+DSA basics and exam preparation strategies<br>
+Building interactive web projects with JavaScript<br>
+Creating mini projects like sliders, wish boxes, and UI effects<br>
+
+Getting started with AI from scratch<br>  
+
+
+I enjoy turning simple ideas into real projects
 
 
 ## 🌐 Socials:
