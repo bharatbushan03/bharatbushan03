@@ -1,24 +1,43 @@
 # 💫 About Me:
-Improving my Data Structures & Algorithms skills for exams and problem-solving<br>
+🔭 I’m currently working on<br>
+
+Strengthening my Data Structures & Algorithms skills for exams and problem-solving<br>
+
 Developing interactive web projects using HTML, CSS, and JavaScript<br>
 
-Web development projects (HTML, CSS, JavaScript)<br>
+👯 I’m looking to collaborate on<br>
+
+Web development projects and open-so<br>urce contributions
+
 Beginner-friendly AI / ML projects<br>
-Open-source tools, especially developer utilities<br>
-Advanced DSA problem-solving and optimization<br>
-AI & Deep Learning concepts (from fundamentals to projects)<br>
+
+Developer tools and productivity applications<br>
+
+🤝 I’m looking for help with<br>
+
+Advanced DSA concepts and optimization techniques<br>
+
+AI & Deep Learning fundamentals and practical implementation<br>
+
+🌱 I’m currently learning<br>
+
 Data Structures & Algorithms<br>
+
 Artificial Intelligence & Machine Learning<br>
-Full-stack web development and project structuring<br>
-DSA basics and exam preparation strategies<br>
-Building interactive web projects with JavaScript<br>
-Creating mini projects like sliders, wish boxes, and UI effects<br>
 
-Getting started with AI from scratch<br>  
+Full-stack web development and real-world project building<br>
 
+💬 Ask me about<br>
 
-I enjoy turning simple ideas into real projects
+DSA preparation strategies and logic building<br>
 
+JavaScript-based interactive web projects<br>
+
+Getting started with AI and project-based learning<br>
+
+⚡ Fun fact<br>
+
+I enjoy turning simple ideas into real projects.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/spider09____) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bharatbushan5320@gmail.com) 
