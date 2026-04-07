@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Bharat Bushan
+name: Bharat Bushan Lashotra
 pronouns: He / Him
 location: India 🇮🇳
 currently_working_on:
