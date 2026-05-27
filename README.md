@@ -96,12 +96,12 @@ fun_fact: I enjoy turning simple ideas into real projects ✨
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharatbushan03&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatbushan03&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bharatbushan03&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=21600" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatbushan03&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=21600" height="180" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=bharatbushan03&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=bharatbushan03&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -109,7 +109,7 @@ fun_fact: I enjoy turning simple ideas into real projects ✨
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bharatbushan03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bharatbushan03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&cache_seconds=21600" alt="GitHub Trophies"/>
 </div>
 
 ---
