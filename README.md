@@ -96,8 +96,8 @@ fun_fact: I enjoy turning simple ideas into real projects ✨
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharatbushan03&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bharatbushan03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bharatbushan03&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=tokyonight&amp;hide_border=true" height="180" alt="GitHub stats for bharatbushan03" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatbushan03&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true" height="180" alt="Top languages for bharatbushan03" />
 </div>
 
 <div align="center">
@@ -109,7 +109,7 @@ fun_fact: I enjoy turning simple ideas into real projects ✨
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bharatbushan03&theme=tokyonight&no-frame=true&margin-w=6&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bharatbushan03&amp;theme=tokyonight&amp;no-frame=true&amp;margin-w=6&amp;column=6" alt="GitHub profile trophies for bharatbushan03" />
 </div>
 
 ---
