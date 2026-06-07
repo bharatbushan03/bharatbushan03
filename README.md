@@ -121,7 +121,7 @@ fun_fact: I enjoy turning simple ideas into real projects ✨
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -156,8 +156,8 @@ fun_fact: I enjoy turning simple ideas into real projects ✨
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharatbushan03&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=tokyonight&amp;hide_border=true" height="180" alt="GitHub stats for bharatbushan03" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatbushan03&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true" height="180" alt="Top languages for bharatbushan03" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bharatbushan03&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub stats for bharatbushan03" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatbushan03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top languages for bharatbushan03" />
 </div>
 
 <div align="center">
@@ -169,7 +169,7 @@ fun_fact: I enjoy turning simple ideas into real projects ✨
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bharatbushan03&amp;theme=tokyonight&amp;no-frame=true&amp;margin-w=6&amp;column=6" alt="GitHub profile trophies for bharatbushan03" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bharatbushan03&theme=tokyonight&no-frame=true&margin-w=6&column=6" alt="GitHub profile trophies for bharatbushan03" />
 </div>
 
 ---
